@@ -166,6 +166,14 @@ Create a single GitHub repository named `Multi-Cloud-Solutions-Portfolio` with t
 
 ---
 
+<figure>
+    <img src="/Terraform-Matrix.jpg"  width="200" height="175"
+         alt="Terraform Matrix Mission Patch">
+    <figcaption><em>Terraform Matrix Mission Patch</em></figcaption>
+</figure>
+
+
+
 
 ## 🚀 Recommended Starting Point: AWS HA Web App with Terraform
 
